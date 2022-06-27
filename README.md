@@ -1,6 +1,6 @@
 # flutter_demo
 
-A new Flutter project.
+Android原生通过webview加载FlutterWeb
 
 ## Getting Started
 
